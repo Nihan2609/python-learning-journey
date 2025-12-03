@@ -6,6 +6,7 @@ This repository contains my Python exercises and Jupyter notebooks from my learn
 - Python Basics
 - Control Flow
 - Data Structures
+- more coming .......
 
 ## Setup
 1. Clone the repo:
