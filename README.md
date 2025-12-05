@@ -1,34 +1,32 @@
 # Python Learning Journey
 
-This repository contains my Python exercises and Jupyter notebooks from my learning journey.
+This repository contains all the notes, examples, and exercises I completed while learning Python — from basics to advanced topics.
 
-## Contents
-- Python Basics
-- Control Flow
-- Data Structures
-- more coming .......
+## 📂 Folder Structure
+- 1-Python Basics  
+- 2-Control Flow  
+- 3-Data Structures  
+- 4-Functions  
+- 5-Modules  
+- 6-File Handling  
+- 7-Exception Handling  
+- 8-Class And Objects  
+- 9-Advance Python Concepts  
+- 10-Data Analysis with Python  
+- 11-Working with Databases  
+- 12-Logging in Python  
+- 13-Flask  
+- 14-Streamlit  
+- 15-Memory Management  
+- 16-Multithreading and Multiprocessing  
 
-## Setup
-1. Clone the repo:
-git clone https://github.com/Nihan2609/python-learning-journey.git
+## 🎯 Purpose
+- Track my Python learning progress  
+- Keep all practice files organized  
+- Build a strong foundation for development  
 
+## 🚀 How to Use
+Browse any folder to view notebooks, examples, and practice files.
 
-2. Create a virtual environment:
-python -m venv venv
-
-
-3. Activate it:
-venv\Scripts\activate
-
-
-4. Install dependencies:
-pip install -r requirements.txt
-
-
-
-## Notes
-- The `venv/` folder is ignored with `.gitignore`.
-- Only notebooks and necessary files are included.
-
-## Author
-AL-FARHAN NIHAN
+## 📌 Status
+Learning in progress. Updates coming regularly.
